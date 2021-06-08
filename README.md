@@ -29,7 +29,7 @@ We're using the [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/in
 To get started, clone the repository and run bundler to install dependencies:
 
 ```
-git clone https://git.corp.stripe.com/stripe-sandbox/sa-takehome-project-ruby && cd sa-takehome-project-ruby
+git clone https://github.com/adamjstevenson/takehome-project-ruby.git && cd sa-takehome-project-ruby
 bundle install
 ```
 
